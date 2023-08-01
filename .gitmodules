@@ -1,0 +1,9 @@
+[submodule "zkevm-bridge-service"]
+	path = zkevm-bridge-service
+	url = https://github.com/10dimensions/zkevm-bridge-service.git
+[submodule "zkevm-node"]
+	path = zkevm-node
+	url = https://github.com/10dimensions/zkevm-node.git
+[submodule "zkevm-contracts"]
+	path = zkevm-contracts
+	url = https://github.com/10dimensions/zkevm-contracts.git
